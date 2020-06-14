@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[execution start]]>
+    </line>
+    <line>
+      <![CDATA[executioncomplete]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50685" started-at="2020-06-14T02:14:46Z" finished-at="2020-06-14T02:15:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50685" started-at="2020-06-14T02:14:46Z" finished-at="2020-06-14T02:15:37Z">
+      <class name="com.scripts.PraticeFb.TESTPraticeFb">
+        <test-method status="PASS" signature="executionstart()[pri:0, instance:com.scripts.PraticeFb.TESTPraticeFb@42607a4f]" name="executionstart" is-config="true" duration-ms="16" started-at="2020-06-14T02:14:46Z" finished-at="2020-06-14T02:14:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[execution start]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionstart -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.scripts.PraticeFb.TESTPraticeFb@42607a4f]" name="openbrowser" is-config="true" duration-ms="45133" started-at="2020-06-14T02:14:46Z" finished-at="2020-06-14T02:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.scripts.PraticeFb.TESTPraticeFb@42607a4f]" name="login" duration-ms="5141" started-at="2020-06-14T02:15:31Z" finished-at="2020-06-14T02:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="executioncomplete()[pri:0, instance:com.scripts.PraticeFb.TESTPraticeFb@42607a4f]" name="executioncomplete" is-config="true" duration-ms="0" started-at="2020-06-14T02:15:37Z" finished-at="2020-06-14T02:15:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[executioncomplete]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executioncomplete -->
+      </class> <!-- com.scripts.PraticeFb.TESTPraticeFb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
